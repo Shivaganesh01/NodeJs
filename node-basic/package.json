@@ -1,0 +1,19 @@
+{
+    "name": "myapp",
+    "version": "1.0.0",
+    "description": "NodeJs Appplication",
+    "main": "app.js",
+    "scripts": {
+        "dev": "nodemon app.js"
+    },
+    "keywords": [
+        "node",
+        "javascript"
+    ],
+    "author": "Shivaganesh",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.1",
+        "nodemon": "^2.0.2"
+    }
+}
